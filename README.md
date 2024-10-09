@@ -1,3 +1,3 @@
 # Product Catalog
 
-## DEMO[https://yaros-dev.github.io/react_phone-catalog/#/]
+## [DEMO](https://yaros-dev.github.io/react_phone-catalog/#/)
